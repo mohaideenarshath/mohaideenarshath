@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohaideenarshath
 - 👀 I’m interested in Developing new things.
-- 🌱 I’m currently learning Advanced Jacvascript and C#
+- 🌱 Always Interested in learning new Technologies.
 - 📫 arshathmohaideen@gmail.com
 
 <!---
